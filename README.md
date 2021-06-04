@@ -1,4 +1,4 @@
-# Foobar
+# Android Quick Start Project
 Base android project that includes typically utilized libraries.
 
 ## Requirements
