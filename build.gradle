@@ -29,7 +29,7 @@ buildscript {
         // https://kotlinlang.org/docs/gradle.html
         kotling_gradle_plugin_version = '1.5.10'
         // https://maven.google.com/web/index.html?q=gradle#com.android.tools.build:gradle
-        gradle_version = '7.0.0-beta03'
+        gradle_version = '7.0.0-beta04'
         // https://github.com/Kotlin/kotlinx.coroutines/releases
         coroutines_version = '1.4.3'
         // https://github.com/square/okhttp/releases
